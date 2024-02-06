@@ -1,6 +1,6 @@
-# Tutorial-Topia
+# Welcome
 
-Welcome to **Tutorial-Topia**, a personal repository where I share my journey learning and implementing complex tutorials in machine learning. It serves to document my dedication to learning and my interests in the field.
+This is a personal repository where I share my journey learning and implementing complex tutorials related to machine learning. It serves to document my dedication to learning and my interests in the field.
 
 ## About This Repository
 
