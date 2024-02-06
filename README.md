@@ -1,6 +1,6 @@
 # Welcome
 
-This is a personal repository where I share my journey learning and implementing complex tutorials related to machine learning. It serves to document my dedication to learning and my interests in the field.
+This is a repository where I share my journey learning and implementing complex tutorials related to machine learning. It serves to document my dedication to learning and my interests in the field.
 
 
 ## About This Repository
